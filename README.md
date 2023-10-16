@@ -1,16 +1,10 @@
-# GS-EdgeComputing
-
-## Integrantes do grupo:
-+ Bruno Bastos - RM: 550416
-+ Gabriel Freitas - RM: 550187
-+ Guilherme Daher - RM: 98611
-+ Matheus Lucas - RM: 99505
+# Hidroponia Automatizada
 
 ## Sobre o projeto:
-Este projeto consiste em um sistema de irrigação e monitoramento de um cultivo em hidroponia, que é uma forma de cultivo dentro de estufas sem uso de solo. Pela falta de alguns componentes no simulador, tivemos que utilizar de outros componentes disponíveis para fazer a sua simulação da forma mais adequada possível, como por exemplo o sensor de pH que foi substituído por um ***potenciômetro*** que tem seu valores variando de ***0 até 14***, e também a valvula solenóide que foi substituída por um ***motor CC***.
+Este projeto consiste em um sistema de irrigação e monitoramento de um cultivo em hidroponia, que é uma forma de cultivo dentro de estufas sem uso de solo. Pela falta de alguns componentes no simulador, foram utilizados outros componentes disponíveis para fazer a sua simulação da forma mais adequada possível, como por exemplo o sensor de pH que foi substituído por um ***potenciômetro*** que tem seu valores variando de ***0 até 14***, e também a valvula solenóide que foi substituída por um ***motor CC***.
 
 ## Componentes:
-Para desenvolver este protótipo, utilizamos:
+Para desenvolver este protótipo, foi utilizado:
 
 + Um sensor de temperatura;
 + Um LCD;
